@@ -12,5 +12,6 @@ Algoexpert finish 10 problems
 Coding with matrix with 10 variations 
 Install Qt and Finish Stroustrup book ch 1
 iBt writing 1x
+Javascript ajax web minim start chapter 1
 
 
