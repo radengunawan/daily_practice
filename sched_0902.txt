@@ -4,6 +4,7 @@ On office:
 Networking: Computer network topdown 1 - 3
 Makefile: Makefile ch 1 - 3
 C program: Principle of System Hallaron finish ch 1
+OpenWRT - Ubus
 
 Out office:
 Intro algo finish until ch 5
