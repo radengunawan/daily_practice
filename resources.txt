@@ -1,3 +1,5 @@
+Stanford CS:
+https://www.cs.stanford.edu/courses-overview
 
 On office:
 C programming
@@ -6,6 +8,29 @@ https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-
 https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
 
 Computer Networking:
+https://www.scs.stanford.edu/09au-cs144/
+
+
+https://web.stanford.edu/class/archive/cs/cs244/cs244.1156/
+
+CS155: Computer and Network Security
+https://cs155.stanford.edu/
+
+6.829 | Fall 2002 | Graduate
+Computer Networks
+https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/readings/
+
+6.829: Computer Networks
+http://nms.csail.mit.edu/6.829-f06/texts.html
+
+
+6.263/16.37 DATA NETWORKS
+https://web.mit.edu/modiano/www/6.263/
+
+CS61 2019 Networking
+https://cs61.seas.harvard.edu/site/2019/Networking/
+
+https://comm-net.ethz.ch/2022/pdfs/exercises/
 
 Makefile:
 
