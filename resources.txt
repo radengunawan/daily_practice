@@ -33,3 +33,29 @@ Discrete Math
 Theory of Computation
 Automata and Formal Language
 
+https://www.linkedin.com/posts/eka-gun-tw_challenge-your-career-at-paypay-workstyle-activity-7236735813630181379-tMRk?utm_source=share&utm_medium=member_desktop
+
+https://lnkd.in/gQyb7ZAi
+
+Which problem-solving exercises material is best for preparing Google interview?
+Please rank from the following list:
+- Algoexpert problems
+- MIT's algorithm midterm and final exam problems 
+- IOI problems
+- problems in Schaum's book in Data structures and algorithm
+- problems in  "Cracking Coding Interview" book
+- problems in textbook in data structures and algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
